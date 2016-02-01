@@ -1,0 +1,2 @@
+# TryPython
+some exercises
