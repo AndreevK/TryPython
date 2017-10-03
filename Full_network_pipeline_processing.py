@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 # Python script for automated PhotoScan processing
 # PhotoScan version 1.2.5
@@ -14,6 +14,7 @@ import gc
 import imp 
 from PySide import QtCore, QtGui
 import collections
+import numpy
 
 class PipelineOrthoDlg(QtGui.QDialog):
 
